@@ -445,6 +445,6 @@ genisoimage -cache-inodes -r -J -l -b isolinux/isolinux.bin -c isolinux/boot.cat
 
 isohybrid -u live.iso
 
-#### Iso erzeugen #### END ######
+#### Iso erzeugen ####  END  ######
 date
 echo
