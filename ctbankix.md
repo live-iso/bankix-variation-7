@@ -2,6 +2,9 @@
 layout: default
 title: ctbankix
 ---
+
+#### Dieses Repository bezieht sich auf [ctbankix-continuation](https://github.com/ctbankix-continuation-team/ctbankix-continuation)
+
 ## einige Details zu ctbankix und ein "Danke schön"
 
 
