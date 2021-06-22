@@ -7,7 +7,7 @@
 #       https://www.heise.de/forum/c-t/Kommentare-zu-c-t-Artikeln/Sicheres-Online-Banking-mit-Bankix/Re-Lubuntu-20-04-2-LTS/posting-38966791/show/
 ##
 ##       Wer Lust hat, über dieses Script speziell oder über Änderungen am ctbankix-Script generell zu diskutieren, kann mich erreichen.
-##       Bei der von Heinlein betriebenen Mailbox habe ich einen Account. In der letzten Zeile dieses Kommentars gebe ich den Account an.
+##       Bei der von Heinlein betriebenen Mailbox habe ich einen Account. In der letzten Zeile dieses Kommentars gebe ich den User-Namen an.
 ##       Er ist identisch mit dem Pseudonym auf dem Forum. (smtp: Klein) 
 ##       Sorry für diese Kryptik :-( aber wenn du damit Probleme hast, dann soll es wohl nicht sein ;-)
 ##
