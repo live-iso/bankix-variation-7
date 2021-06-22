@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 #	ctbankix-continuation
 #	Copyright (C) 2021 ctbankix-continuation-team
 #
