@@ -35,6 +35,8 @@ echo "Network:" && ip a
 
 #### mit sudo kvm starten // completeNetPlusSharedDir.sh
 ```
+mkdir -p /tmp/share
+
 kvm –name foo -m 8196 -hda /var/lib/libvirt/mytarget/foo.img -cdrom /home/debianuser/ISOs/live.iso -cpu host -boot d -device e1000,netdev=net0,mac=87:83:17:36:CA:CA -netdev tap,id=net0,ifname=tap0,script=no,downscript=no -smp 2 -vga qxl -fsdev local,security_model=passthrough,id=fsdev0,path=/tmp/share -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare
 ```
 
