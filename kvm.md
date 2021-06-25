@@ -7,7 +7,7 @@ title: qemu-system-x86_64
 für Basics siehe: [Lars Wirzenius](https://blog.liw.fi/posts/kvm-for-ubuntu-iso-testing/)
 
 #### Hinweis: 
-auf Debian und Ubunut ruf _/usr/bin/kvm_ qemu-system-x86_64 auf: 
+auf Debian und Ubunut ruft _/usr/bin/kvm_ qemu-system-x86_64 auf: 
 
 ```
 exec qemu-system-x86_64 -enable-kvm "$@"
