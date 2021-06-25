@@ -40,7 +40,7 @@ kvm –name foo -m 8196 -hda /var/lib/libvirt/mytarget/foo.img -cdrom /home/debi
 
 ##### Anmerkung security_model in completeNetPlusSharedDir.sh
 
-In der “nested Virtualization” in Ubuntu 20.04 ( virtuelle Maschine in einer virtuellen 20.04.2-Instanz )ersetze ich
+In der “nested Virtualization” in Ubuntu 20.04 ( virtuelle Maschine in einer virtuellen 20.04.2-Instanz ) ersetze ich
 ```
 security_model=mapped-xattr
 ```
