@@ -4,7 +4,9 @@ title: bankix-variation-7
 ---
 ### variation-7-1-1
 
-##### Nach dem aktuellen Update sieht das schon wieder anders / einfacher aus (alles kann in einem Schritt gemacht werden). Es lohnt sich m.E. aber nicht, dem hinterherzukommentieren - die Idee wird klar und das soll reichen. Im übrigen sollte dieser Arbeitsschritt als aller erstes gemacht werden. 
+#### wichtiger Nachtrag
+
+Nach dem aktuellen Update sieht das schon wieder anders / einfacher aus (alles kann in einem Schritt gemacht werden). Es lohnt sich m.E. aber nicht, dem hinterherzukommentieren - die Idee wird klar und das soll reichen. Im übrigen sollte dieser Arbeitsschritt als aller erstes gemacht werden. 
 
 
 ##### Alle Änderungen können "offline" (ohne Netzwerkzugang) ausgeführt werden.
