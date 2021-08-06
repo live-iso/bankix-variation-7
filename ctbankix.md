@@ -60,6 +60,6 @@ Der Schreibschutz kann deaktiviert werden mittels Öffnen des Schreibschutzschal
 
 ###### ... mit älterer Hardware / PCs
 
-Meine Wirklichkeit ist nun, dass nur noch eine alte Version des Unetbootin, welche ich auf einem alten Laptop installiert hatte, Images erzeugen kann, die auf älterer Hardware schreibbar gebootet werden können. SDHC-Karten, die ich mit neueren Versionen von Unetbootin beschrieben hatte, konnte ich nicht erfolgreich auf älterer Hardware booten. (&nbsp;Diese Erkenntnis geht auf Erfahungen zurück, die ich 2018/2019 gesammelt hatte und die mittlerweile überholt sein können.&nbsp;)
+Meine Wirklichkeit ist nun, dass nur noch eine alte Version des Unetbootin, welche ich auf einem alten Laptop installiert hatte, Images erzeugen kann, die auf älterer Hardware schreibbar gebootet werden können. SDHC-Karten, die ich mit neueren Versionen von Unetbootin beschrieben hatte, konnte ich nicht erfolgreich auf älterer Hardware booten. (&nbsp;Diese Erkenntnis geht auf Erfahrungen zurück, die ich 2018/2019 gesammelt hatte und die mittlerweile überholt sein können.&nbsp;)
 
 
