@@ -25,7 +25,7 @@ Immer wieder und in einzelnen Teilen habe ich für mich - meist on the fly - kle
 #### Dank dem ctbankix-continuation-team
 
 
-[dreierlei](https://www.heise.de/forum/c-t/Kommentare-zu-c-t-Artikeln/Sicheres-Online-Banking-mit-Bankix/Weiterentwicklung-ctbankix-auf-Basis-von-Lubuntu-16-04-1-32-Bit/posting-29217674/show/) hat das ctbankix-continuation-Projekt, auf welches ich mich im weiteren hier beziehe,  in Gang gesetzt und geteilt; vielen Dank dafür. Den anderen Aktiven, deren Beitrag erst zum Erfolg dieser Version im Speziellen und der Idee des sicheren Datenaustausches im Allgemeinen beiträgt, zolle ich hier ebenfalls meinen Respekt.
+[dreierlei](https://www.heise.de/forum/c-t/Kommentare-zu-c-t-Artikeln/Sicheres-Online-Banking-mit-Bankix/Weiterentwicklung-ctbankix-auf-Basis-von-Lubuntu-16-04-1-32-Bit/posting-29217674/show/) hat das ctbankix-continuation-Projekt, auf welches ich mich im weiteren hier beziehe,  in Gang gesetzt und geteilt; vielen Dank dafür. Den anderen Aktiven, deren Unterstützung erst zum Erfolg dieser Version im Speziellen und der Idee des sicheren Datenaustausches im Allgemeinen beiträgt, zolle ich hier ebenfalls meinen Respekt.
 
 #### Was ist ctbankix?
 
